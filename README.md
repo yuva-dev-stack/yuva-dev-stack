@@ -45,6 +45,7 @@ A hotel management website for handling room browsing, bookings, and admin-side 
 |----------|------------|
 | Frontend | HTML |
 | Database | MySQL |
+
 🔗 [Code](https://github.com/yuva-dev-stack/Hotel-Management-website)
 
 #### 📋 job-application-tracker
