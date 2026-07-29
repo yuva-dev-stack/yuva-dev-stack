@@ -55,7 +55,8 @@ Full-stack Job Application Tracker built using Spring Boot and MySQL.
 
 | Layer    | Technology |
 |----------|------------|
-| Backend  | Spring Boot |
+| Frontend | HTML |
+| Backend  | Java, Spring Boot |
 | Database | MySQL |
 
 🔗 [Code](https://github.com/yuva-dev-stack/job-application-tracker)
